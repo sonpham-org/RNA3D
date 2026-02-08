@@ -1,0 +1,18 @@
+{
+  "id": "sonphamorg/sub2-denovo",
+  "title": "sub2-denovo",
+  "code_file": "sub2-denovo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": ["stanford-rna-3d-folding-2"],
+  "dataset_sources": [
+    "theoviel/rnapro-src",
+    "jaejohn/rnapro-ccd-cache",
+    "kami1976/biopython-cp312"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

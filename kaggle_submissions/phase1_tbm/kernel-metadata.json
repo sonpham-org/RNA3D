@@ -1,0 +1,14 @@
+{
+  "id": "sonwk/phase1-tbm-advanced",
+  "title": "Phase1 TBM Advanced",
+  "code_file": "phase1-tbm-advanced.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["stanford-rna-3d-folding-2"],
+  "dataset_sources": ["kami1976/biopython-cp312"],
+  "kernel_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sonphamorg/sub3-multi-seed",
+  "title": "Sub3 Multi-Seed",
+  "code_file": "sub3-multiseed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": ["stanford-rna-3d-folding-2"],
+  "dataset_sources": [
+    "theoviel/rnapro-src",
+    "jaejohn/rnapro-ccd-cache",
+    "kami1976/biopython-cp312"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}
